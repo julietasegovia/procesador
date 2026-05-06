@@ -50,3 +50,5 @@ void run_cpu(struct CPU *cpu) {
         }
     }
 }
+
+int main (){}
